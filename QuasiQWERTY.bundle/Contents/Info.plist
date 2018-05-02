@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>QuasiQWERTY</string>
+	<key>CFBundleIdentifier</key>
+	<string>me.larryv.keyboardlayout.quasiqwerty</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>QuasiQWERTY</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2015, 2018 Lawrence Andrew Velázquez</string>
+
+	<!-- see /System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextInputSources.h -->
+	<key>KLInfo_Colemak</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Colemak</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ColemakModDH</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.ColemakModDH</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
+
+<!-- vim: set noexpandtab shiftwidth=0 softtabstop=0: -->
