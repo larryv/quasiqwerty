@@ -23,6 +23,64 @@
 	<string>Copyright © 2015, 2018 Lawrence Andrew Velázquez</string>
 
 	<!-- see /System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextInputSources.h -->
+
+	<key>KLInfo_CarpalxGYLMWP</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxGYLMWP</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxPBFMWJ</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxPBFMWJ</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxQFMLWY</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxQFMLWY</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxQGMLWB</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxQGMLWB</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxQGMLWY</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxQGMLWY</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxQWKRFY</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxQWKRFY</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxQWYRFM</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxQWYRFM</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CarpalxTNWMLC</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CarpalxTNWMLC</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Colemak</key>
 	<dict>
 		<key>TISInputSourceID</key>
