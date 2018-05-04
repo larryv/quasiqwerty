@@ -96,6 +96,14 @@
 		<string>en</string>
 	</dict>
 
+	<key>KLInfo_Norman</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Norman</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Workman</key>
 	<dict>
 		<key>TISInputSourceID</key>
