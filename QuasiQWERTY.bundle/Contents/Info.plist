@@ -95,6 +95,21 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
+
+	<key>KLInfo_Workman</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Workman</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_WorkmanP</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.WorkmanP</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 </dict>
 </plist>
 
