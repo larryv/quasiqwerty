@@ -118,6 +118,28 @@
 		<string>en</string>
 	</dict>
 
+	<key>KLInfo_Minimak4</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Minimak4</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Minimak8</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Minimak8</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Minimak12</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Minimak12</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Norman</key>
 	<dict>
 		<key>TISInputSourceID</key>
