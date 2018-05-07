@@ -96,6 +96,28 @@
 		<string>en</string>
 	</dict>
 
+	<key>KLInfo_Dvorak</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Dvorak</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_DvorakLeft</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.DvorakLeft</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_DvorakRight</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.DvorakRight</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Norman</key>
 	<dict>
 		<key>TISInputSourceID</key>
