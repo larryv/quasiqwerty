@@ -24,6 +24,36 @@
 
 	<!-- see /System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextInputSources.h -->
 
+	<key>KLInfo_CapewellDvorak</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CapewellDvorak</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
+	<key>KLInfo_CapewellQWERTY</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CapewellQWERTY</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CapewellQWERTYHalf</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CapewellQWERTYHalf</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_CapewellQWERTYN</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.CapewellQWERTYN</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_CarpalxGYLMWP</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -144,6 +174,14 @@
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>me.larryv.keylayout.Norman</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
+	<key>KLInfo_QWERF</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.QWERF2007</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>

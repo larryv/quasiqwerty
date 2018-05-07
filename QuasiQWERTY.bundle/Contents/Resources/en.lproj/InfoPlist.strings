@@ -1,3 +1,7 @@
+"CapewellDvorak" = "Capewell-Dvorak - QWERTY ⌘⌥";
+"CapewellQWERTY" = "Capewell-QWERTY - QWERTY ⌘⌥";
+"CapewellQWERTYHalf" = "Capewell-QWERTY 1/2 - QWERTY ⌘⌥";
+"CapewellQWERTYN" = "Capewell-QWERTY N - QWERTY ⌘⌥";
 "CarpalxGYLMWP" = "Carpalx GYLMWP - QWERTY ⌘⌥";
 "CarpalxPBFMWJ" = "Carpalx PBFMWJ - QWERTY ⌘⌥";
 "CarpalxQFMLWY" = "Carpalx QFMLWY - QWERTY ⌘⌥";
@@ -15,5 +19,6 @@
 "Minimak8" = "Minimak 8-Key - QWERTY ⌘⌥";
 "Minimak12" = "Minimak 12-Key - QWERTY ⌘⌥";
 "Norman" = "Norman - QWERTY ⌘⌥";
+"QWERF" = "QWERF - QWERTY ⌘⌥";
 "Workman" = "Workman - QWERTY ⌘⌥";
 "WorkmanP" = "Workman-P - QWERTY ⌘⌥";
