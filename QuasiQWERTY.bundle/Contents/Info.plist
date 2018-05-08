@@ -24,6 +24,14 @@
 
 	<!-- see /System/Library/Frameworks/Carbon.framework/Frameworks/HIToolbox.framework/Headers/TextInputSources.h -->
 
+	<key>KLInfo_Asset</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Asset</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_CapewellDvorak</key>
 	<dict>
 		<key>TISInputSourceID</key>
