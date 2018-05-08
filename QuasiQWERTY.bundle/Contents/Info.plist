@@ -148,6 +148,14 @@
 		<string>en</string>
 	</dict>
 
+	<key>KLInfo_Klausler</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Klausler</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Minimak4</key>
 	<dict>
 		<key>TISInputSourceID</key>
