@@ -210,6 +210,63 @@
 		<string>en</string>
 	</dict>
 
+	<key>KLInfo_Tarmak1</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak1</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak1Curl</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak1Curl</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak2</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak2</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak2Curl</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak2Curl</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak3</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak3</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak3Curl</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak3Curl</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak4</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak4</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak4Curl</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>me.larryv.keylayout.Tarmak4Curl</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+
 	<key>KLInfo_Workman</key>
 	<dict>
 		<key>TISInputSourceID</key>
