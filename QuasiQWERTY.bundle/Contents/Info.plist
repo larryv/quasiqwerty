@@ -31,7 +31,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_CapewellDvorak</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -39,7 +38,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_CapewellQWERTY</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -61,7 +59,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_CarpalxGYLMWP</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -118,7 +115,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Colemak</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -133,7 +129,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Colman</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -141,7 +136,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Dvorak</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -163,7 +157,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Klausler</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -171,7 +164,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Minimak4</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -193,7 +185,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Norman</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -201,7 +192,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_QWERF</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -209,7 +199,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Tarmak1</key>
 	<dict>
 		<key>TISInputSourceID</key>
@@ -266,7 +255,6 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-
 	<key>KLInfo_Workman</key>
 	<dict>
 		<key>TISInputSourceID</key>
