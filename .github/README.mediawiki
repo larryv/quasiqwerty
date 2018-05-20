@@ -1,0 +1,124 @@
+= QuasiQWERTY =
+
+QuasiQWERTY is a collection of keyboard layouts for macOS. When Command
+or Option are pressed, each layout behaves like the built-in "U.S."
+layout, eliminating the need to relearn key combinations for shortcuts
+and alternate characters.
+
+== Installation ==
+
+# Download repository.
+# Copy <code>QuasiQWERTY.bundle</code> to <code>/Library/Keyboard Layouts</code> or <code>~/Library/Keyboard Layouts</code>.
+# Log out and back in.
+
+== Layouts ==
+
+{|
+| [http://millikeys.sourceforge.net/asset Asset]
+| [[File:Asset-small.png]]
+|-
+| [http://www.michaelcapewell.com/projects/keyboard/index.htm#The_Capewell-Dvorak_Layout Capewell-Dvorak]
+| [[File:CapewellDvorak-small.png]]
+|-
+| [http://www.michaelcapewell.com/projects/keyboard/layout_capewell.htm#CapewellQWERTY Capewell-QWERTY]
+| [[File:CapewellQWERTY-small.png]]
+|-
+| [http://www.michaelcapewell.com/projects/keyboard/layout_capewell.htm#CapewellQWERTY Capewell-QWERTY N]
+| [[File:CapewellQWERTYN-small.png]]
+|-
+| [http://www.michaelcapewell.com/projects/keyboard/layout_capewell.htm#CapewellQWERTY Capewell-QWERTY 1/2]
+| [[File:CapewellQWERTYHalf-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?improving_colemak Carpalx GYLMWP]
+| [[File:CarpalxGYLMWP-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?improving_colemak Carpalx PBFMWJ]
+| [[File:CarpalxPBFMWJ-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?full_optimization Carpalx QFMLWY]
+| [[File:CarpalxQFMLWY-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?full_optimization Carpalx QGMLWB]
+| [[File:CarpalxQGMLWB-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?full_optimization Carpalx QGMLWY]
+| [[File:CarpalxQGMLWY-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?partial_optimization Carpalx QWKRFY]
+| [[File:CarpalxQWKRFY-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?partial_optimization Carpalx QWYRFM]
+| [[File:CarpalxQWYRFM-small.png]]
+|-
+| [http://mkweb.bcgsc.ca/carpalx/?worst_layout Carpalx TNWMLC]
+| [[File:CarpalxTNWMLC-small.png]]
+|-
+| [https://colemak.com Colemak]
+| [[File:Colemak-small.png]]
+|-
+| [https://colemakmods.github.io/mod-dh Colemak Mod-DH] — [https://forum.colemak.com/topic/2315-dreymars-big-bag-of-keyboard-tricks-main-topic/#p20411 Angle(Z)]
+| [[File:ColemakModDH-small.png]]
+|-
+| [https://colmanlayout.wordpress.com Colman]
+| [[File:Colman-small.png]]
+|-
+| [https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard Dvorak] ([https://webstore.ansi.org/RecordDetail.aspx?sku=INCITS+207-1991%5bS2012%5d INCITS 207-1991])
+| [[File:Dvorak-small.png]]
+|-
+| [https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#One-handed_versions Dvorak left-handed]
+| [[File:DvorakLeft-small.png]]
+|-
+| [https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#One-handed_versions Dvorak right-handed]
+| [[File:DvorakRight-small.png]]
+|-
+| [https://web.archive.org/web/20060721141015/http://www.visi.com/~pmk/evolved.html Klausler's "evolved" layout]
+| [[File:Klausler-small.png]]
+|-
+| [http://www.minimak.org Minimak 4-key]
+| [[File:Minimak4-small.png]]
+|-
+| [http://www.minimak.org Minimak 8-key]
+| [[File:Minimak8-small.png]]
+|-
+| [http://www.minimak.org Minimak 12-key]
+| [[File:Minimak12-small.png]]
+|-
+| [https://normanlayout.info Norman]
+| [[File:Norman-small.png]]
+|-
+| [http://www.michaelcapewell.com/projects/keyboard/index.htm#The_QWERF_Layout QWERF]
+| [[File:QWERF-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14776 Tarmak1]
+| [[File:Tarmak1-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14776 Tarmak2]
+| [[File:Tarmak2-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14776 Tarmak3]
+| [[File:Tarmak3-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14776 Tarmak4]
+| [[File:Tarmak4-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801 Tarmak1-Curl(DH)] — [https://forum.colemak.com/topic/2315-dreymars-big-bag-of-keyboard-tricks-main-topic/#p20411 Angle(Z)]
+| [[File:Tarmak1Curl-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801 Tarmak2-Curl(DH)] — [https://forum.colemak.com/topic/2315-dreymars-big-bag-of-keyboard-tricks-main-topic/#p20411 Angle(Z)]
+| [[File:Tarmak2Curl-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801 Tarmak3-Curl(DH)] — [https://forum.colemak.com/topic/2315-dreymars-big-bag-of-keyboard-tricks-main-topic/#p20411 Angle(Z)]
+| [[File:Tarmak3Curl-small.png]]
+|-
+| [https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801 Tarmak4-Curl(DH)] — [https://forum.colemak.com/topic/2315-dreymars-big-bag-of-keyboard-tricks-main-topic/#p20411 Angle(Z)]
+| [[File:Tarmak4Curl-small.png]]
+|-
+| [https://github.com/ojbucao/workman Workman]
+| [[File:Workman-small.png]]
+|-
+| [https://github.com/ojbucao/workman Workman-P] — inverted number
+keys only
+| [[File:WorkmanP-small.png]]
+|}
+
+<!-- vim: set wrap: -->
