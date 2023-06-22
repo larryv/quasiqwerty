@@ -1,6 +1,6 @@
 = QuasiQWERTY =
 
-QuasiQWERTY is a collection of keyboard layouts for macOS. When Command
+QuasiQWERTY is a collection of keyboard layouts for macOS.  When Command
 or Option are pressed, each layout behaves like the built-in "U.S."
 layout, eliminating the need to relearn key combinations for shortcuts
 and alternate characters.
